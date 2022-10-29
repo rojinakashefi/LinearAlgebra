@@ -1,5 +1,7 @@
 # Linear ALgebra
 
+## Find out more about each project in its folder.
+
 ### Bmp Compression
 
 - SVD, SVD usage in image compression
