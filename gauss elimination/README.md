@@ -8,4 +8,4 @@ Here is the algorithm implemented :
 
 
 
-<img title="" src="https://github.com/rojinakashefi/Intro-to-Artificial-Intelligence/blob/main/linear%20algebra/gauss%20elimination/algorithm.png" alt="" width="264" data-align="center">
+<img title="" src="https://github.com/rojinakashefi/LinearAlgebra/blob/main/gauss%20elimination/algorithm.png" alt="" width="264" data-align="center">
