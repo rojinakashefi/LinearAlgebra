@@ -28,6 +28,6 @@ This projects help us to create shadow of image using transformation. For implem
    
    ------
    
-   For learning transformation here is [my notes](https://github.com/rojinakashefi/Intro-to-Artificial-Intelligence/blob/main/linear%20algebra/shadow%20creation%20using%20shear%20transformation/linear%20transformation.pdf).
+   For learning transformation here is [my notes](https://github.com/rojinakashefi/LinearAlgebra/blob/main/shadow%20creation%20using%20shear%20transformation/linear%20transformation.pdf).
 
 
