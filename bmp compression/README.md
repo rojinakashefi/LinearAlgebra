@@ -7,7 +7,7 @@ We tried to compress bmp images using SVD formula:
 Since sigma matrix is decreasing so when we get downer their values get near to zero and we can not condiser them in our calculation:
 
 
-![https://github.com/rojinakashefi/LinearAlgebra/blob/main/bmp%20compression/svd-k.png)
+![(https://github.com/rojinakashefi/LinearAlgebra/blob/main/bmp%20compression/svd-k.png)
 
 For example if our Input image is : 
 
