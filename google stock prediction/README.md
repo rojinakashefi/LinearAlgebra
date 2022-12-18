@@ -12,7 +12,7 @@ Here is the result of Linear regiression.
 
 y = 0.24 (x) + 61.75
 
-<img src="https://github.com/rojinakashefi/Intro-to-Artificial-Intelligence/blob/main/linear%20algebra/google%20stock%20prediction/linear_regression.png" display= "block" margin-left="auto" margin-right="auto" width="80%" height="50%"/>
+<img src="https://github.com/rojinakashefi/LinearAlgebra/blob/main/google%20stock%20prediction/linear_regression.png" display= "block" margin-left="auto" margin-right="auto" width="80%" height="50%"/>
 
 We see that the linear line doesn't fit our data well so we check quadratic  linear regression.
 
@@ -20,7 +20,7 @@ We see that the linear line doesn't fit our data well so we check quadratic  lin
 
 y = 1.34 (x^2) + -1.6(x) + 2.64
 
-<img src="https://github.com/rojinakashefi/Intro-to-Artificial-Intelligence/blob/main/linear%20algebra/google%20stock%20prediction/polynomial_regression.png" display= "block" margin-left="auto" margin-right="auto" width="80%" height="50%"/>
+<img src="https://github.com/rojinakashefi/LinearAlgebra/blob/main/google%20stock%20prediction/polynomial_regression.png" display= "block" margin-left="auto" margin-right="auto" width="80%" height="50%"/>
 
 We see that it fits better on our data.
 
